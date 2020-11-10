@@ -18,7 +18,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Face_Recog">
         <activity android:name=".DispImageActivity"></activity>
-        <activity android:name=".ImagePickActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
